@@ -1,19 +1,42 @@
-﻿OBJECTID,contract date,sub decree date,Name,year of establishment,Inside PA?,PA name,current designation,previous designation,Change des?,Original establishment Year,Area m sq,area ha,Shape_Length,Shape_Area
-28, , ,Agro Star,1995,N, , , , ,0,19885502.91,1988.550291,23585.90953,19885502.91
+﻿OBJECTID,contract_date,sub_decree_date,Name,year_establishment,Inside_PA,PA_name,current_designation,previous_designation,Change des?,Original_establishment_Year,Area m sq,area_ha,Shape_Length,Shape_Area
+1,9/25/2009,Not found, ,2009,N,Prey Lang Wildlife Sanctuary,Wildlife Sanctuary, , ,2016,129980811.8,12998.08118,66361.93809,129980811.8
+2,3/18/2000,Not found, ,2000,Y,Preah Monivong National Park,National Park, , ,1993,173255746.8,17325.57468,52349.85971,173255746.8
 3,7/23/1998,Not found, ,1998,Y,Phnom Aural Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,233717078.2,23371.70782,102203.7587,233717078.2
+4,9/22/2011,8/16/2011, ,2011,N, , , , ,0,136140585.8,13614.05858,75925.47133,136140585.8
+5,11/23/2001,Not found, ,2001,Y,Siem Pang Wildlife Sanctuary,Wildlife Sanctuary,Protected Forest,Y,2014,1577968932,157796.8932,281578.7471,1577968932
+6,4/4/2006,Not found, ,2006,N, , , , ,0,120185255,12018.5255,53695.44075,120185255
+7,10/24/2011,Not found, ,2011,Y,Keo Seima Wildlife Sanctuary,Wildlife Sanctuary,Protected Forest,Y,2004,106485850.4,10648.58504,44022.87219,106485850.4
+8,10/5/2011,5/24/2011, ,2011,N,Boeng Lomkod Proected Landscape,Protected Landscape, , ,2018,118588571.2,11858.85712,58495.71884,118588571.2
+9,1/8/2000,Not found, ,2000,Y,Tonle Sap Biosphere Multiple Use Area,Multiple Use Management Area, , ,1993,3333499805,333349.9805,413231.2767,3333499805
+10,10/24/2011,Not found, ,2011,Y,Keo Seima Wildlife Sanctuary,Wildlife Sanctuary, , ,2004,107817604,10781.7604,47448.59334,107817604
+11,5/27/2008,Not found, ,2008,N, , , , ,0,10122361.03,1012.236103,13527.09436,10122361.03
+12,8/11/2006,Not found, ,2006,N, , , , ,0,89739770.89,8973.977089,68457.90085,89739770.89
+13,Not found,2/22/2011, ,2011,Y,Dong Peng Multiple Use Area,Multiple Use Management Area, , ,1993,632399.0088,63.23990088,4459.470256,632399.0088
+14,Not found,4/1/2011, ,2011,Y,Botum Sakor National Park,National Park,National Park,N,1993,98355169.61,9835.516961,44146.00281,98355169.61
+15,Not found,8/16/2011, ,2011,N, , , , ,0,101483973.5,10148.39735,46954.73272,101483973.5
+16,4/12/2006,Not found, ,2006,Y,Siem Pang Wildlife Sanctuary,Wildlife Sanctuary,Protected Forest,Y,2014,141172435.4,14117.24354,94423.35885,141172435.4
+17,Not found,10/28/2011, ,2011,Y,Virachey National Park,National Park, , ,1993,73344515.14,7334.451514,60969.08534,73344515.14
+18,Not found,2/24/2012, ,2012,N, , , , ,0,119561899.6,11956.18996,59702.88364,119561899.6
+19,Not found,5/18/2012, ,2012,Y,Kulen Promtep Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,110914197.4,11091.41974,81015.00941,110914197.4
+20,1/23/2007,Not found, ,2007,N, , , , ,0,17572432.85,1757.243285,22643.99968,17572432.85
+21,Not found,9/7/2011, ,2011,Y,Phnom Prich Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,91348883.93,9134.888393,62600.5713,91348883.93
+22,2/24/2008,Not found, ,2008,N,Sorng Rokha Vorn Wildlife Sanctuary,Wildlife Sanctuary, , ,2018,61880724.15,6188.072415,74875.73407,61880724.15
+23,2/24/2008,Not found, ,2008,N,Sorng Rokha Vorn Wildlife Sanctuary,Wildlife Sanctuary, , ,2018,63205834.1,6320.58341,96964.2036,63205834.1
+24,2/24/2008,Not found, ,2008,N,Sorng Rokha Vorn Wildlife Sanctuary,Wildlife Sanctuary, , ,2018,59481015.22,5948.101522,75987.52713,59481015.22
+25,Not found,9/14/2012, ,2012,N, , , , ,0,50013800.57,5001.380057,60283.67668,50013800.57
+26,12/8/2009,Not found, ,2009,Y,Phnom Prich Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,102441350.2,10244.13502,43278.4066,102441350.2
+27,12/3/2010,Not found, ,2010,Y,Protected Landscape Banteay Chmar,Protected Landscape, , ,1993,11137145.76,1113.714576,14514.63763,11137145.76
+28, , ,Agro Star,1995,N, , , , ,0,19885502.91,1988.550291,23585.90953,19885502.91
 29, , ,Green Rich,1998,Y,Botum Sakor National Park,National Park, , ,1993,197009075.9,19700.90759,70130.00667,197009075.9
 30, , ,Ratanak Visal,1999,N, , , , ,0,36817958.55,3681.795855,34706.67106,36817958.55
 31, , ,Flour Manufacturing (Cassava Starch),1999,N, , , , ,0,74602768.6,7460.27686,40934.4063,74602768.6
 32, , ,CJ Cambodia 1,1999,N, , , , ,0,62955152.57,6295.515257,38986.37284,62955152.57
 33, , ,CJ Cambodia 2,1999,N, , , , ,0,31500076.31,3150.007631,29414.24893,31500076.31
 34, , ,Rama Khmer International,1999,N,Ou Ya Dav National Park,National Park, , ,2009,215731349.4,21573.13494,62152.05768,215731349.4
-2,3/18/2000,Not found, ,2000,Y,Preah Monivong National Park,National Park, , ,1993,173255746.8,17325.57468,52349.85971,173255746.8
-9,1/8/2000,Not found, ,2000,Y,Tonle Sap Biosphere Multiple Use Area,Multiple Use Management Area, , ,1993,3333499805,333349.9805,413231.2767,3333499805
 35, , ,TTY,2000,N, , , , ,0,10400016.11,1040.001611,20000.01559,10400016.11
 36, , ,Leang Hour Hong,2000,Y,Roniem Daun Sam II Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,109190295.4,10919.02954,80885.09078,109190295.4
 37, , ,Camland II,2000,Y,Preah Monivong National Park,National Park, , ,1993,108205329.9,10820.53299,63800.34532,108205329.9
 38, , ,Camland I,2000,Y,Preah Monivong National Park,National Park, , ,1993,56430284.83,5643.028483,70436.2315,56430284.83
-5,11/23/2001,Not found, ,2001,Y,Siem Pang Wildlife Sanctuary,Wildlife Sanctuary,Protected Forest,Y,2014,1577968932,157796.8932,281578.7471,1577968932
 39, , ,Uk Khun,2001,N, , , , ,0,116086333.2,11608.63332,63413.35146,116086333.2
 40, , ,Tumring Rubber,2001,N, , , , ,0,62000021.97,6200.002197,40000.00718,62000021.97
 41, , ,Golden Land,2004,N, , , , ,0,54000130.64,5400.013064,34000.04105,54000130.64
@@ -28,9 +51,6 @@
 50, , ,Sal Sophea Peanich,2005,N, , , , ,0,14090175.09,1409.017509,17783.12162,14090175.09
 51, , ,Mieng Ly Heng,2005,N, , , , ,0,30160045.79,3016.004579,26800.02047,30160045.79
 52, , ,Wuzhishan L.S Group,2005,Y,Keo Seima Wildlife Sanctuary,Wildlife Sanctuary, , ,2004,209592106.4,20959.21064,100546.5789,209592106.4
-6,4/4/2006,Not found, ,2006,N, , , , ,0,120185255,12018.5255,53695.44075,120185255
-12,8/11/2006,Not found, ,2006,N, , , , ,0,89739770.89,8973.977089,68457.90085,89739770.89
-16,4/12/2006,Not found, ,2006,Y,Siem Pang Wildlife Sanctuary,Wildlife Sanctuary,Protected Forest,Y,2014,141172435.4,14117.24354,94423.35885,141172435.4
 53, , ,Grand Land,2006,N, , , , ,0,89707833.71,8970.783371,51742.15058,89707833.71
 54, , ,Phou Mady,2006,N, , , , ,0,121708798.2,12170.87982,86158.66058,121708798.2
 55, , ,Siv Gech (Provincial),2006,N, , , , ,0,6008764.473,600.8764473,14013.77283,6008764.473
@@ -54,7 +74,6 @@
 73, , ,Sophorn Theary,2006,N, , , , ,0,52335789.56,5233.578956,39965.61196,52335789.56
 74, , ,Kain,2006,N, , , , ,0,45835655.54,4583.565554,33743.77498,45835655.54
 75, , ,Taing Lux,2006,N, , , , ,0,10074227.4,1007.42274,14094.6406,10074227.4
-20,1/23/2007,Not found, ,2007,N, , , , ,0,17572432.85,1757.243285,22643.99968,17572432.85
 76, , ,CamAgra,2007,N, , , , ,0,55277307.51,5527.730751,112044.6086,55277307.51
 77, , ,Snuol Investment,2007,N, , , , ,0,10139866.02,1013.986602,14684.72398,10139866.02
 78, , ,Brightway,2007,N, , , , ,0,9986227.998,998.6227998,12966.96268,9986227.998
@@ -65,10 +84,6 @@
 83, , ,Ba Ria - Kampong Thom,2007,N, , , , ,0,55340602.28,5534.060228,69878.46031,55340602.28
 84, , ,Gold Foison,2007,N, , , , ,0,116868539.3,11686.85393,58794.27304,116868539.3
 85, , ,Boeung Ket Rubber Plantation - Long Sreng,2007,N, , , , ,0,77013027.81,7701.302781,80422.98542,77013027.81
-11,5/27/2008,Not found, ,2008,N, , , , ,0,10122361.03,1012.236103,13527.09436,10122361.03
-22,2/24/2008,Not found, ,2008,N,Sorng Rokha Vorn Wildlife Sanctuary,Wildlife Sanctuary, , ,2018,61880724.15,6188.072415,74875.73407,61880724.15
-23,2/24/2008,Not found, ,2008,N,Sorng Rokha Vorn Wildlife Sanctuary,Wildlife Sanctuary, , ,2018,63205834.1,6320.58341,96964.2036,63205834.1
-24,2/24/2008,Not found, ,2008,N,Sorng Rokha Vorn Wildlife Sanctuary,Wildlife Sanctuary, , ,2018,59481015.22,5948.101522,75987.52713,59481015.22
 86, , ,Coviphama,2008,Y,Phnom Namlear Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,53373742.31,5337.374231,34429.71627,53373742.31
 87, , ,Sihanoukville Special Economic Zone (SSEZ),2008,Y,Ream National Park,National Park, , ,1995,11230072.8,1123.00728,25261.94823,11230072.8
 88, , ,Casotim,2008,N, , , , ,0,161153131.5,16115.31315,59614.21392,161153131.5
@@ -91,8 +106,6 @@
 105, , ,Agri-Industrial Crops,2008,N, , , , ,0,92290906.93,9229.090693,43040.76938,92290906.93
 106, , ,Seang Long Greenland,2008,Y,Phnom Prich Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,99583495.61,9958.349561,42299.27556,99583495.61
 107, , ,Tong Ming Group,2008,N, , , , ,0,83540643.46,8354.064346,53904.84731,83540643.46
-1,9/25/2009,Not found, ,2009,N,Prey Lang Wildlife Sanctuary,Wildlife Sanctuary, , ,2016,129980811.8,12998.08118,66361.93809,129980811.8
-26,12/8/2009,Not found, ,2009,Y,Phnom Prich Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,102441350.2,10244.13502,43278.4066,102441350.2
 108, , ,Union Development Group,2009,Y,Botum Sakor National Park,National Park, , ,1993,362808144.1,36280.81441,166341.3351,362808144.1
 109, , ,Chub Rubber Plantation - LYP Group,2009,N, , , , ,0,150942326.9,15094.23269,77678.75839,150942326.9
 110, , ,DTC Group,2009,N, , , , ,0,58140074.31,5814.007431,30795.47841,58140074.31
@@ -120,7 +133,6 @@
 132, , ,PDA (Cambodia),2009,N, , , , ,0,69685631.98,6968.563198,35352.02528,69685631.98
 133, , ,Kamadhenu Ventures (Cambodia),2009,N,Sambor Wildlife Sanctuary,Wildlife Sanctuary, , ,2018,89906305.94,8990.630594,43966.54288,89906305.94
 134, , ,Grandis Timber,2009,N, , , , ,0,127384059.6,12738.40596,80626.61112,127384059.6
-27,12/3/2010,Not found, ,2010,Y,Protected Landscape Banteay Chmar,Protected Landscape, , ,1993,11137145.76,1113.714576,14514.63763,11137145.76
 135, , ,N.K Ventures (Cambodia),2010,N, , , , ,0,13019185.39,1301.918539,15448.39308,13019185.39
 136, , ,Dong Nai,2010,N, , , , ,0,25291545.56,2529.154556,29483.10973,25291545.56
 137, , ,Dong Phu,2010,N, , , , ,0,4931670.138,493.1670138,10504.19061,4931670.138
@@ -158,15 +170,6 @@
 169, , ,Sovann Vuthy,2010,Y,Snuol Wildlife Sanctuary,Wildlife Sanctuary,Wildlife Sanctuary,N,1993,50803411.99,5080.341199,47187.11925,50803411.99
 170, , ,Yun Khean Minerals,2010,N,Southern Cardamom Mountains National Park,National Park, , ,2016,2889909.551,288.9909551,7800.127109,2889909.551
 171, , ,MDS Import Export,2010,Y,Phnom Samkos Wildlife Sanctuary,Wildlife Sanctuary,Wildlife Sanctuary,N,1994,43733451.98,4373.345198,52007.5959,43733451.98
-4,9/22/2011,8/16/2011, ,2011,N, , , , ,NA,136140585.8,13614.05858,75925.47133,136140585.8
-7,10/24/2011,Not found, ,2011,Y,Keo Seima Wildlife Sanctuary,Wildlife Sanctuary,Protected Forest,Y,2004,106485850.4,10648.58504,44022.87219,106485850.4
-8,10/5/2011,5/24/2011, ,2011,N,Boeng Lomkod Proected Landscape,Protected Landscape, , ,2018,118588571.2,11858.85712,58495.71884,118588571.2
-10,10/24/2011,Not found, ,2011,Y,Keo Seima Wildlife Sanctuary,Wildlife Sanctuary, , ,2004,107817604,10781.7604,47448.59334,107817604
-13,Not found,2/22/2011, ,2011,Y,Dong Peng Multiple Use Area,Multiple Use Management Area, , ,1993,632399.0088,63.23990088,4459.470256,632399.0088
-14,Not found,4/1/2011, ,2011,Y,Botum Sakor National Park,National Park,National Park,N,1993,98355169.61,9835.516961,44146.00281,98355169.61
-15,Not found,8/16/2011, ,2011,N, , , , ,0,101483973.5,10148.39735,46954.73272,101483973.5
-17,Not found,10/28/2011, ,2011,Y,Virachey National Park,National Park, , ,1993,73344515.14,7334.451514,60969.08534,73344515.14
-21,Not found,9/7/2011, ,2011,Y,Phnom Prich Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,91348883.93,9134.888393,62600.5713,91348883.93
 172, , ,Rithy Granite (Cambodia),2011,Y,Beng Per Wildlife Sanctuary,Wildlife Sanctuary,Wildlife Sanctuary,N,1993,20360263.97,2036.026397,19661.60706,20360263.97
 173, , ,Try Pheap Import Export,2011,Y,Virachey National Park,National Park,National Park and ASEAN Heritage Park,Y,1993,95897311.54,9589.731154,50638.41872,95897311.54
 174, , ,Try Pheap MDS,2011,Y,Virachey National Park,National Park,National Park and ASEAN Heritage Park,Y,1993,91468036.66,9146.803666,45796.25682,91468036.66
@@ -233,9 +236,6 @@
 235, , ,Tay Ninh - Siem Reap Rubber,2011,Y,Kulen Promtep Wildlife Sanctuary,Wildlife Sanctuary,Wildlife Sanctuary,N,1993,92274306.64,9227.430664,52680.40139,92274306.64
 236, , ,Forestry Investment,2011,N, , , , ,0,9638124.003,963.8124003,13507.74534,9638124.003
 237, , ,Pour Khouch Aphivath,2011,Y,Beng Per Wildlife Sanctuary,Wildlife Sanctuary,Wildlife Sanctuary,N,1993,3589445.654,358.9445654,12455.01017,3589445.654
-18,Not found,2/24/2012, ,2012,N, , , , ,0,119561899.6,11956.18996,59702.88364,119561899.6
-19,Not found,5/18/2012, ,2012,Y,Kulen Promtep Wildlife Sanctuary,Wildlife Sanctuary, , ,1993,110914197.4,11091.41974,81015.00941,110914197.4
-25,Not found,9/14/2012, ,2012,N, , , , ,0,50013800.57,5001.380057,60283.67668,50013800.57
 238, , ,DM Group,2012,N, , , , ,0,8499991.428,849.9991428,12499.99377,8499991.428
 239, , ,Ample Focus (Cambodia),2012,N, , , , ,0,132921568.6,13292.15686,51061.03262,132921568.6
 240, , ,China Great Cause (Cambodia),2012,N, , , , ,0,89245817.66,8924.581766,38733.35314,89245817.66
