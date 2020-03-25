@@ -40,9 +40,9 @@ Periods2 <- c("2011-2012","2013-2014", "2015-2016", "2017-2018")
 data_bins <- as_tibble(PA_ELC_rounded) %>%  mutate(six_year_bins = case_when(year > 2000 & year < 2007 ~ Periods6[1],
                            year > 2007 & year < 2013 ~ Periods6[2],
                            year > 2013 & year < 2019 ~ Periods6[3]),
-            three_year_bins = case_when(year >= 2010 & year < 2013 ~ Periods3[1],
-                                        year >= 2013 & year < 2016 ~ Periods3[2],
-                                        year >= 2016 & year < 2019 ~ Periods3[3]), 
+            three_year_bins = case_when(year > 2010 & year < 2013 ~ Periods3[1],
+                                        year > 2013 & year < 2016 ~ Periods3[2],
+                                        year > 2016 & year < 2019 ~ Periods3[3]), 
                                         two_year_bins = case_when(year > 2011 & year < 2013 ~ Periods2[1],
                                                                   year > 2013 & year < 2015 ~ Periods2[2],
                                                                   year > 2015 & year < 2017 ~ Periods2[3],
@@ -60,13 +60,13 @@ data_bins %>%
   scale_x_discrete(na.translate = FALSE)+
   ylim(0,2000000)+
   scale_fill_manual("Land type", values = c("ELC" = "steelblue", "PA" = "Darkkhaki"))+
-  labs(title = paste(strwrap("Amount of PA and ELC land omitted from analysis under different proposed temporal periods", width = 80), collapse = "\n"),
+  labs(title = paste(strwrap("Amount of PA and ELC land omitted from analysis under different proposed temporal periods", width = 50), collapse = "\n"),
        x = "Proposed Period of analysis", 
        y = "Amount of land (ha) omitted")+
   theme(plot.title = element_text(size = rel(1.3), hjust = 0.5),
         axis.title = element_text(size = rel(1.2)),
         panel.background = element_rect(fill = "white", colour = "grey", linetype = "solid"),
-        legend.position = c(0.92, 0.5),
+        legend.position = c(0.90, 0.4),
         legend.background = element_rect(fill = "white", colour = "Dark grey", linetype = "solid"),
         legend.title = element_text(hjust = 0.5))
 
@@ -89,7 +89,7 @@ data_bins %>%
             theme(plot.title = element_text(size = rel(1.3), hjust = 0.5),
                   axis.title = element_text(size = rel(1.2)),
                   panel.background = element_rect(fill = "white", colour = "grey", linetype = "solid"),
-                  legend.position = c(0.92, 0.5),
+                  legend.position = c(0.90, 0.4),
                   legend.background = element_rect(fill = "white", colour = "Dark grey", linetype = "solid"),
                   legend.title = element_text(hjust = 0.5))
 
@@ -110,7 +110,7 @@ data_bins %>%
             theme(plot.title = element_text(size = rel(1.3), hjust = 0.5),
                   axis.title = element_text(size = rel(1.2)),
                   panel.background = element_rect(fill = "white", colour = "grey", linetype = "solid"),
-                  legend.position = c(0.92, 0.5),
+                  legend.position = c(0.90, 0.5),
                   legend.background = element_rect(fill = "white", colour = "Dark grey", linetype = "solid"),
                   legend.title = element_text(hjust = 0.5))
 
